@@ -1,0 +1,1573 @@
+[
+  {
+    "rank": 1,
+    "tier": "A",
+    "episode": 15,
+    "segments_str": "00:07.60-00:22.50  +  00:53.50-01:26.00",
+    "duration_seconds": 47.4,
+    "is_stitched": true,
+    "hook": "(action) Juliana bursts through the cottage doorway, her hands wrapped in clean white bandages, freezing in horror at the destruction.",
+    "cliffhanger": "Thug With Cap: \"What? You want to fight us, veteran?\" | (sound) Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+    "why": "opens on a strong line/action; cuts on an unresolved beat; easy to follow cold; skips a slower middle to join two beats",
+    "score": 0.738,
+    "rank_score": 0.717,
+    "rules": {
+      "hook": 0.85,
+      "cliff": 1.0,
+      "standalone": 1.0,
+      "pace": 0.69,
+      "total": 0.74
+    },
+    "flags": [
+      "stitched"
+    ]
+  },
+  {
+    "rank": 2,
+    "tier": "A",
+    "episode": 11,
+    "segments_str": "00:14.30-00:46.30",
+    "duration_seconds": 32.0,
+    "is_stitched": false,
+    "hook": "Juliana: \"You have already taken enough from me. Leave!\"",
+    "cliffhanger": "Juliana: \"You cannot simply invade our home because this man makes an accusation!\"",
+    "why": "opens on a strong line/action; easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.707,
+    "rank_score": 0.692,
+    "rules": {
+      "hook": 0.62,
+      "cliff": 0.58,
+      "standalone": 1.0,
+      "pace": 1.0,
+      "total": 0.71
+    },
+    "flags": []
+  },
+  {
+    "rank": 3,
+    "tier": "A",
+    "episode": 2,
+    "segments_str": "00:00.00-00:27.60",
+    "duration_seconds": 27.6,
+    "is_stitched": false,
+    "hook": "The Former Groom: \"I cannot marry you, Juliana.\"",
+    "cliffhanger": "Lady Juliana: \"A better choice? Is that what she is?\"",
+    "why": "opens on a strong line/action; easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.681,
+    "rank_score": 0.68,
+    "rules": {
+      "hook": 0.77,
+      "cliff": 0.6,
+      "standalone": 0.88,
+      "pace": 0.96,
+      "total": 0.68
+    },
+    "flags": [
+      "refers-to-absent:Gerald"
+    ]
+  },
+  {
+    "rank": 4,
+    "tier": "A",
+    "episode": 28,
+    "segments_str": "00:15.20-00:48.00",
+    "duration_seconds": 32.8,
+    "is_stitched": false,
+    "hook": "Juliana: \"I did not poison her! Look at her eyes, the fever has broken!\"",
+    "cliffhanger": "Dowager Duchess: \"They have been\u2014\" | (action) The Duchess collapses back onto the pillows, coughing violently and clutching her chest.",
+    "why": "opens on a strong line/action; cuts on an unresolved beat; tight, back-and-forth pacing",
+    "score": 0.695,
+    "rank_score": 0.657,
+    "rules": {
+      "hook": 0.62,
+      "cliff": 0.68,
+      "standalone": 0.76,
+      "pace": 1.0,
+      "total": 0.69
+    },
+    "flags": [
+      "ends-on-interrupted-line",
+      "refers-to-absent:Catherine,Rupert"
+    ]
+  },
+  {
+    "rank": 5,
+    "tier": "A",
+    "episode": 1,
+    "segments_str": "01:14.60-01:47.30",
+    "duration_seconds": 32.7,
+    "is_stitched": false,
+    "hook": "Lady In Gold Gown: \"Long enough to know he was never going to marry you.\"",
+    "cliffhanger": "Lady Juliana: \"And I am what?\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.653,
+    "rank_score": 0.653,
+    "rules": {
+      "hook": 0.54,
+      "cliff": 0.55,
+      "standalone": 0.88,
+      "pace": 0.92,
+      "total": 0.65
+    },
+    "flags": [
+      "refers-to-absent:Clarissa"
+    ]
+  },
+  {
+    "rank": 6,
+    "tier": "A",
+    "episode": 16,
+    "segments_str": "00:55.20-01:23.19",
+    "duration_seconds": 28.0,
+    "is_stitched": false,
+    "hook": "(action) The Thug with Cap scrambles to his feet and sprints into the dark woods alongside his two limping accomplices.",
+    "cliffhanger": "Alexander: \"No.\" | (sound) Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold.",
+    "why": "opens on a strong line/action; cuts on an unresolved beat; easy to follow cold",
+    "score": 0.663,
+    "rank_score": 0.643,
+    "rules": {
+      "hook": 0.62,
+      "cliff": 0.7,
+      "standalone": 1.0,
+      "pace": 0.56,
+      "total": 0.66
+    },
+    "flags": [
+      "script-marks-cliffhanger"
+    ]
+  },
+  {
+    "rank": 7,
+    "tier": "A",
+    "episode": 36,
+    "segments_str": "01:57.00-02:28.00",
+    "duration_seconds": 31.0,
+    "is_stitched": false,
+    "hook": "Alexander: \"You told them the truth!\"",
+    "cliffhanger": "Alexander: \"What wedding?\"",
+    "why": "opens on a strong line/action; easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.688,
+    "rank_score": 0.639,
+    "rules": {
+      "hook": 0.62,
+      "cliff": 0.58,
+      "standalone": 0.88,
+      "pace": 1.0,
+      "total": 0.69
+    },
+    "flags": [
+      "refers-to-absent:Juliana"
+    ]
+  },
+  {
+    "rank": 8,
+    "tier": "A",
+    "episode": 47,
+    "segments_str": "01:03.50-01:44.50",
+    "duration_seconds": 41.0,
+    "is_stitched": false,
+    "hook": "Catherine: \"London closed its doors! My family disowned me!\"",
+    "cliffhanger": "Catherine: \"You expect me to scrub floors before these commoners?\"",
+    "why": "opens on a strong line/action; cuts on an unresolved beat; easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.705,
+    "rank_score": 0.639,
+    "rules": {
+      "hook": 0.62,
+      "cliff": 0.68,
+      "standalone": 0.85,
+      "pace": 0.97,
+      "total": 0.7
+    },
+    "flags": [
+      "5-speakers"
+    ]
+  },
+  {
+    "rank": 9,
+    "tier": "A",
+    "episode": 27,
+    "segments_str": "00:37.80-01:20.50",
+    "duration_seconds": 42.7,
+    "is_stitched": false,
+    "hook": "Dowager Duchess: \"Did your husband serve beside him?\"",
+    "cliffhanger": "Lady Catherine: \"Who permitted you to give medicine to the Duchess?\"",
+    "why": "opens on a strong line/action; easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.673,
+    "rank_score": 0.637,
+    "rules": {
+      "hook": 0.57,
+      "cliff": 0.58,
+      "standalone": 1.0,
+      "pace": 0.79,
+      "total": 0.67
+    },
+    "flags": []
+  },
+  {
+    "rank": 10,
+    "tier": "A",
+    "episode": 11,
+    "segments_str": "01:01.80-01:52.75",
+    "duration_seconds": 51.0,
+    "is_stitched": false,
+    "hook": "Juliana: \"Please! There is nothing here!\"",
+    "cliffhanger": "Gerald: \"There it is. Ha!\"",
+    "why": "opens on a strong line/action; easy to follow cold",
+    "score": 0.627,
+    "rank_score": 0.614,
+    "rules": {
+      "hook": 0.62,
+      "cliff": 0.55,
+      "standalone": 1.0,
+      "pace": 0.68,
+      "total": 0.63
+    },
+    "flags": [
+      "dead-air-11s"
+    ]
+  },
+  {
+    "rank": 11,
+    "tier": "B",
+    "episode": 24,
+    "segments_str": "00:33.80-01:31.50",
+    "duration_seconds": 57.7,
+    "is_stitched": false,
+    "hook": "(action) Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike.",
+    "cliffhanger": "Lady Juliana: \"I will return. You cannot stop the healer.\" | (action) Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn with unwavering defiance and unyielding resolve as she stares toward the hallway.",
+    "why": "opens on a strong line/action; easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.64,
+    "rank_score": 0.61,
+    "rules": {
+      "hook": 0.65,
+      "cliff": 0.6,
+      "standalone": 1.0,
+      "pace": 0.84,
+      "total": 0.64
+    },
+    "flags": []
+  },
+  {
+    "rank": 12,
+    "tier": "B",
+    "episode": 27,
+    "segments_str": "01:32.80-02:08.40",
+    "duration_seconds": 35.6,
+    "is_stitched": false,
+    "hook": "Juliana: \"The physicians were not saving her!\"",
+    "cliffhanger": "Lady Catherine: \"She admits she has been giving the Duchess poison in secret!\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.641,
+    "rank_score": 0.607,
+    "rules": {
+      "hook": 0.5,
+      "cliff": 0.53,
+      "standalone": 1.0,
+      "pace": 0.92,
+      "total": 0.64
+    },
+    "flags": []
+  },
+  {
+    "rank": 13,
+    "tier": "B",
+    "episode": 3,
+    "segments_str": "00:58.30-01:31.60",
+    "duration_seconds": 33.3,
+    "is_stitched": false,
+    "hook": "Noble Matriarch: \"Guards! Remove her!\"",
+    "cliffhanger": "The Bearded Stranger: \"Are you hurt?\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.605,
+    "rank_score": 0.602,
+    "rules": {
+      "hook": 0.5,
+      "cliff": 0.55,
+      "standalone": 0.85,
+      "pace": 0.86,
+      "total": 0.6
+    },
+    "flags": [
+      "5-speakers",
+      "dead-air-6s"
+    ]
+  },
+  {
+    "rank": 14,
+    "tier": "B",
+    "episode": 3,
+    "segments_str": "01:36.50-02:25.75",
+    "duration_seconds": 49.2,
+    "is_stitched": false,
+    "hook": "Noble Matriarch: \"You cannot interfere in a family matter!\"",
+    "cliffhanger": "The Bearded Stranger: \"Lady Juliana... accept my hand.\" | (action) Juliana gazes down at her rugged savior, overcome with emotion as the swelling score holds on the cliffhanger.",
+    "why": "cuts on an unresolved beat; easy to follow cold",
+    "score": 0.594,
+    "rank_score": 0.592,
+    "rules": {
+      "hook": 0.5,
+      "cliff": 0.65,
+      "standalone": 1.0,
+      "pace": 0.7,
+      "total": 0.59
+    },
+    "flags": [
+      "script-marks-cliffhanger"
+    ]
+  },
+  {
+    "rank": 15,
+    "tier": "B",
+    "episode": 43,
+    "segments_str": "01:33.20-01:54.96",
+    "duration_seconds": 21.8,
+    "is_stitched": false,
+    "hook": "Blond Nobleman: \"I was told he was dead!\"",
+    "cliffhanger": "Police Constable: \"Going somewhere, Lord Sterling?\"",
+    "why": "opens on a strong line/action; cuts on an unresolved beat; easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.641,
+    "rank_score": 0.586,
+    "rules": {
+      "hook": 0.62,
+      "cliff": 0.8,
+      "standalone": 0.88,
+      "pace": 0.94,
+      "total": 0.64
+    },
+    "flags": [
+      "refers-to-absent:Lord Sterling"
+    ]
+  },
+  {
+    "rank": 16,
+    "tier": "B",
+    "episode": 20,
+    "segments_str": "01:10.60-01:54.75",
+    "duration_seconds": 44.2,
+    "is_stitched": false,
+    "hook": "Seamus: \"You are a viscount's daughter!\"",
+    "cliffhanger": "Catherine: \"This house will only bow to me.\"",
+    "why": "cuts on an unresolved beat; easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.608,
+    "rank_score": 0.584,
+    "rules": {
+      "hook": 0.5,
+      "cliff": 0.73,
+      "standalone": 1.0,
+      "pace": 0.81,
+      "total": 0.61
+    },
+    "flags": [
+      "script-marks-cliffhanger"
+    ]
+  },
+  {
+    "rank": 17,
+    "tier": "B",
+    "episode": 43,
+    "segments_str": "00:24.00-01:12.70",
+    "duration_seconds": 48.7,
+    "is_stitched": false,
+    "hook": "Blond Nobleman: \"You have all been deceived!\"",
+    "cliffhanger": "Blond Nobleman: \"I didn't!\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.638,
+    "rank_score": 0.584,
+    "rules": {
+      "hook": 0.5,
+      "cliff": 0.58,
+      "standalone": 1.0,
+      "pace": 0.96,
+      "total": 0.64
+    },
+    "flags": []
+  },
+  {
+    "rank": 18,
+    "tier": "B",
+    "episode": 44,
+    "segments_str": "00:08.60-00:46.40",
+    "duration_seconds": 37.8,
+    "is_stitched": false,
+    "hook": "Lord Sterling: \"You have no authority!\"",
+    "cliffhanger": "Catherine: \"You don't remember?\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.641,
+    "rank_score": 0.584,
+    "rules": {
+      "hook": 0.5,
+      "cliff": 0.5,
+      "standalone": 1.0,
+      "pace": 0.88,
+      "total": 0.64
+    },
+    "flags": []
+  },
+  {
+    "rank": 19,
+    "tier": "B",
+    "episode": 20,
+    "segments_str": "00:15.20-00:39.20",
+    "duration_seconds": 24.0,
+    "is_stitched": false,
+    "hook": "Catherine: \"'Practically' is a word for beggars. I do not marry a practical Duke.\"",
+    "cliffhanger": "Catherine: \"How much longer can the frail thing survive?\"",
+    "why": "tight, back-and-forth pacing",
+    "score": 0.594,
+    "rank_score": 0.571,
+    "rules": {
+      "hook": 0.54,
+      "cliff": 0.55,
+      "standalone": 0.76,
+      "pace": 0.86,
+      "total": 0.59
+    },
+    "flags": [
+      "refers-to-absent:Alexander,Old Woman"
+    ]
+  },
+  {
+    "rank": 20,
+    "tier": "B",
+    "episode": 29,
+    "segments_str": "00:24.80-00:59.00",
+    "duration_seconds": 34.2,
+    "is_stitched": false,
+    "hook": "Catherine: \"You still call this a legacy?\"",
+    "cliffhanger": "Juliana: \"You are doing this because I saved the Duchess!\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.606,
+    "rank_score": 0.571,
+    "rules": {
+      "hook": 0.45,
+      "cliff": 0.43,
+      "standalone": 1.0,
+      "pace": 0.99,
+      "total": 0.61
+    },
+    "flags": []
+  },
+  {
+    "rank": 21,
+    "tier": "B",
+    "episode": 7,
+    "segments_str": "00:32.80-01:09.50",
+    "duration_seconds": 36.7,
+    "is_stitched": false,
+    "hook": "Aristocratic Woman: \"Home? Look at your hands, Juliana.\"",
+    "cliffhanger": "Gerald: \"And your husband?\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.577,
+    "rank_score": 0.57,
+    "rules": {
+      "hook": 0.45,
+      "cliff": 0.4,
+      "standalone": 1.0,
+      "pace": 0.99,
+      "total": 0.58
+    },
+    "flags": []
+  },
+  {
+    "rank": 22,
+    "tier": "B",
+    "episode": 32,
+    "segments_str": "00:43.40-00:58.00  +  02:15.00-02:34.38",
+    "duration_seconds": 34.0,
+    "is_stitched": true,
+    "hook": "Catherine: \"You still think you are better?!\"",
+    "cliffhanger": "Catherine: \"Then let's see how brave you are when it touches your skin!\" | (action) Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye.",
+    "why": "opens on a strong line/action; cuts on an unresolved beat; tight, back-and-forth pacing; skips a slower middle to join two beats",
+    "score": 0.603,
+    "rank_score": 0.564,
+    "rules": {
+      "hook": 0.65,
+      "cliff": 0.88,
+      "standalone": 0.76,
+      "pace": 0.96,
+      "total": 0.6
+    },
+    "flags": [
+      "stitched",
+      "refers-to-absent:Clarissa,Gerald"
+    ]
+  },
+  {
+    "rank": 23,
+    "tier": "B",
+    "episode": 16,
+    "segments_str": "00:16.80-00:44.20",
+    "duration_seconds": 27.4,
+    "is_stitched": false,
+    "hook": "(action) Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wall.",
+    "cliffhanger": "Alexander: \"Who sent you?\" | (action) Alexander lifts the thug onto his tiptoes against the cottage wall, glaring with lethal intensity.",
+    "why": "easy to follow cold",
+    "score": 0.58,
+    "rank_score": 0.562,
+    "rules": {
+      "hook": 0.5,
+      "cliff": 0.58,
+      "standalone": 1.0,
+      "pace": 0.6,
+      "total": 0.58
+    },
+    "flags": [
+      "dead-air-6s"
+    ]
+  },
+  {
+    "rank": 24,
+    "tier": "B",
+    "episode": 34,
+    "segments_str": "01:25.00-01:55.00",
+    "duration_seconds": 30.0,
+    "is_stitched": false,
+    "hook": "(action) Lady Juliana slams her cuffed hands against the wooden railing of the dock, her voice ringing out in indignant fury.",
+    "cliffhanger": "Lady Juliana: \"What were their illnesses?\"",
+    "why": "opens on a strong line/action; easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.603,
+    "rank_score": 0.562,
+    "rules": {
+      "hook": 0.55,
+      "cliff": 0.48,
+      "standalone": 0.85,
+      "pace": 0.96,
+      "total": 0.6
+    },
+    "flags": [
+      "5-speakers"
+    ]
+  },
+  {
+    "rank": 25,
+    "tier": "B",
+    "episode": 12,
+    "segments_str": "00:41.80-01:27.21",
+    "duration_seconds": 45.4,
+    "is_stitched": false,
+    "hook": "Juliana: \"What do you want?\"",
+    "cliffhanger": "Juliana: \"Tell me where the garden is.\" | (action) Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance.",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.568,
+    "rank_score": 0.556,
+    "rules": {
+      "hook": 0.45,
+      "cliff": 0.4,
+      "standalone": 1.0,
+      "pace": 0.93,
+      "total": 0.57
+    },
+    "flags": []
+  },
+  {
+    "rank": 26,
+    "tier": "B",
+    "episode": 36,
+    "segments_str": "02:43.20-03:20.75",
+    "duration_seconds": 37.6,
+    "is_stitched": false,
+    "hook": "Alexander'S Mother: \"Alexander, you cannot go back there alone!\"",
+    "cliffhanger": "Alexander: \"...their dead Duke is coming home.\" | (sound) A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into silence.",
+    "why": "cuts on an unresolved beat; easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.598,
+    "rank_score": 0.556,
+    "rules": {
+      "hook": 0.5,
+      "cliff": 1.0,
+      "standalone": 0.88,
+      "pace": 0.76,
+      "total": 0.6
+    },
+    "flags": [
+      "script-marks-cliffhanger",
+      "refers-to-absent:Juliana"
+    ]
+  },
+  {
+    "rank": 27,
+    "tier": "B",
+    "episode": 31,
+    "segments_str": "01:17.80-01:43.50",
+    "duration_seconds": 25.7,
+    "is_stitched": false,
+    "hook": "Catherine: \"You call that marriage?\"",
+    "cliffhanger": "Catherine: \"I have beauty, money, family, status! What do you have?\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.578,
+    "rank_score": 0.543,
+    "rules": {
+      "hook": 0.45,
+      "cliff": 0.55,
+      "standalone": 1.0,
+      "pace": 0.93,
+      "total": 0.58
+    },
+    "flags": []
+  },
+  {
+    "rank": 28,
+    "tier": "B",
+    "episode": 1,
+    "segments_str": "00:21.80-00:50.00",
+    "duration_seconds": 28.2,
+    "is_stitched": false,
+    "hook": "Lady Juliana: \"What do you mean?\"",
+    "cliffhanger": "Lady Juliana: \"You knew this before I walked through those doors!\"",
+    "why": "cuts on an unresolved beat; easy to follow cold",
+    "score": 0.542,
+    "rank_score": 0.542,
+    "rules": {
+      "hook": 0.45,
+      "cliff": 0.68,
+      "standalone": 0.88,
+      "pace": 0.72,
+      "total": 0.54
+    },
+    "flags": [
+      "refers-to-absent:Gerald",
+      "dead-air-8s"
+    ]
+  },
+  {
+    "rank": 29,
+    "tier": "B",
+    "episode": 21,
+    "segments_str": "00:31.00-00:42.80  +  01:27.70-01:54.00",
+    "duration_seconds": 38.1,
+    "is_stitched": true,
+    "hook": "(action) Prudence drops desperately to her knees onto the hay-strewn barn floor, clasping her hands in tearful supplication.",
+    "cliffhanger": "Prudence: \"Inside that massive house with all their wealth, she is fading to nothing, and no one can stop it.\" | (action) Lady Juliana sits motionless at the rustic wooden table, her bandaged hands holding open her late mother's leather-bound herbal ledger. Her eyes reflect deep apprehension as the dire truth settles over her.",
+    "why": "opens on a strong line/action; cuts on an unresolved beat; easy to follow cold; skips a slower middle to join two beats",
+    "score": 0.563,
+    "rank_score": 0.54,
+    "rules": {
+      "hook": 0.62,
+      "cliff": 0.7,
+      "standalone": 0.88,
+      "pace": 0.68,
+      "total": 0.56
+    },
+    "flags": [
+      "stitched",
+      "refers-to-absent:Dowager Duchess"
+    ]
+  },
+  {
+    "rank": 30,
+    "tier": "B",
+    "episode": 4,
+    "segments_str": "01:55.00-02:31.40",
+    "duration_seconds": 36.4,
+    "is_stitched": false,
+    "hook": "Gerald: \"You have thrown yourself away!\"",
+    "cliffhanger": "(action) Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the screen fades out.",
+    "why": "easy to follow cold",
+    "score": 0.542,
+    "rank_score": 0.539,
+    "rules": {
+      "hook": 0.5,
+      "cliff": 0.45,
+      "standalone": 0.88,
+      "pace": 0.65,
+      "total": 0.54
+    },
+    "flags": [
+      "soft-closure-at-end",
+      "refers-to-absent:Lady Juliana",
+      "dead-air-11s"
+    ]
+  },
+  {
+    "rank": 31,
+    "tier": "C",
+    "episode": 35,
+    "segments_str": "01:51.00-02:37.50",
+    "duration_seconds": 46.5,
+    "is_stitched": false,
+    "hook": "Alexander'S Mother: \"How did you escape?\"",
+    "cliffhanger": "(sound) A sudden, ominous orchestral crescendo swells dramatically into silence.",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.579,
+    "rank_score": 0.539,
+    "rules": {
+      "hook": 0.45,
+      "cliff": 0.5,
+      "standalone": 1.0,
+      "pace": 0.77,
+      "total": 0.58
+    },
+    "flags": [
+      "dead-air-8s"
+    ]
+  },
+  {
+    "rank": 32,
+    "tier": "C",
+    "episode": 45,
+    "segments_str": "01:08.80-02:01.75",
+    "duration_seconds": 53.0,
+    "is_stitched": false,
+    "hook": "Catherine: \"Wife?!\"",
+    "cliffhanger": "(action) Catherine raises her chin, a vindictive smirk spreading across her lips as she realizes her rival's claim has just been torn to pieces.",
+    "why": "easy to follow cold",
+    "score": 0.59,
+    "rank_score": 0.537,
+    "rules": {
+      "hook": 0.52,
+      "cliff": 0.55,
+      "standalone": 0.88,
+      "pace": 0.74,
+      "total": 0.59
+    },
+    "flags": [
+      "starts-on-bare-reply",
+      "refers-to-absent:Lady Juliana",
+      "dead-air-9s"
+    ]
+  },
+  {
+    "rank": 33,
+    "tier": "C",
+    "episode": 44,
+    "segments_str": "00:46.60-01:10.50",
+    "duration_seconds": 23.9,
+    "is_stitched": false,
+    "hook": "Catherine: \"I was supposed to be your Duchess!\"",
+    "cliffhanger": "Catherine: \"Her?!\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.586,
+    "rank_score": 0.534,
+    "rules": {
+      "hook": 0.5,
+      "cliff": 0.48,
+      "standalone": 1.0,
+      "pace": 0.85,
+      "total": 0.59
+    },
+    "flags": [
+      "dead-air-7s"
+    ]
+  },
+  {
+    "rank": 34,
+    "tier": "C",
+    "episode": 2,
+    "segments_str": "01:09.40-01:50.00",
+    "duration_seconds": 40.6,
+    "is_stitched": false,
+    "hook": "The Former Groom: \"Go home quietly, Juliana. At least leave this chapel with some dignity.\"",
+    "cliffhanger": "Lady Juliana: \"...but I will not leave it believing I was the one who should be ashamed.\" | (action) Juliana breathes with steady resolve, holding her head high as the solemn orchestral score swells into the final beat.",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.531,
+    "rank_score": 0.53,
+    "rules": {
+      "hook": 0.42,
+      "cliff": 0.58,
+      "standalone": 0.88,
+      "pace": 0.79,
+      "total": 0.53
+    },
+    "flags": [
+      "refers-to-absent:Gerald"
+    ]
+  },
+  {
+    "rank": 35,
+    "tier": "C",
+    "episode": 31,
+    "segments_str": "01:50.20-02:40.00",
+    "duration_seconds": 49.8,
+    "is_stitched": false,
+    "hook": "Catherine: \"[scoffs] Peasants? People?\"",
+    "cliffhanger": "(action) Juliana recoils back against the hard dungeon wall, gasping for breath in raw terror as the searing iron stops inches from her eyes.",
+    "why": "cuts on an unresolved beat; easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.565,
+    "rank_score": 0.53,
+    "rules": {
+      "hook": 0.45,
+      "cliff": 0.65,
+      "standalone": 1.0,
+      "pace": 0.76,
+      "total": 0.56
+    },
+    "flags": [
+      "script-marks-cliffhanger",
+      "dead-air-9s"
+    ]
+  },
+  {
+    "rank": 36,
+    "tier": "C",
+    "episode": 38,
+    "segments_str": "00:45.50-01:27.91",
+    "duration_seconds": 42.4,
+    "is_stitched": false,
+    "hook": "Juliana: \"What if I die here?\"",
+    "cliffhanger": "Juliana: \"Alexander...\" | (sound) A sharp, high-tension dramatic swell strikes and echoes out into silence alongside the fading toll of the distant church bells.",
+    "why": "opens on a strong line/action; cuts on an unresolved beat",
+    "score": 0.568,
+    "rank_score": 0.525,
+    "rules": {
+      "hook": 0.57,
+      "cliff": 0.66,
+      "standalone": 0.58,
+      "pace": 0.59,
+      "total": 0.57
+    },
+    "flags": [
+      "monologue-or-one-speaker",
+      "refers-to-absent:Alexander"
+    ]
+  },
+  {
+    "rank": 37,
+    "tier": "C",
+    "episode": 45,
+    "segments_str": "00:22.90-00:36.80  +  00:43.80-00:59.80",
+    "duration_seconds": 29.9,
+    "is_stitched": true,
+    "hook": "Juliana: \"You're the Duke?\"",
+    "cliffhanger": "Catherine: \"I didn't know!\"",
+    "why": "opens on a strong line/action; cuts on an unresolved beat; easy to follow cold; tight, back-and-forth pacing; skips a slower middle to join two beats",
+    "score": 0.577,
+    "rank_score": 0.525,
+    "rules": {
+      "hook": 0.57,
+      "cliff": 0.68,
+      "standalone": 1.0,
+      "pace": 0.91,
+      "total": 0.58
+    },
+    "flags": [
+      "stitched"
+    ]
+  },
+  {
+    "rank": 38,
+    "tier": "C",
+    "episode": 28,
+    "segments_str": "01:35.20-02:18.50",
+    "duration_seconds": 43.3,
+    "is_stitched": false,
+    "hook": "(action) Juliana gasps in horror, realizing her secret identity has been laid bare.",
+    "cliffhanger": "Catherine: \"...before he sends you to the gallows.\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.555,
+    "rank_score": 0.524,
+    "rules": {
+      "hook": 0.4,
+      "cliff": 0.4,
+      "standalone": 0.88,
+      "pace": 0.89,
+      "total": 0.56
+    },
+    "flags": [
+      "refers-to-absent:Lady Juliana"
+    ]
+  },
+  {
+    "rank": 39,
+    "tier": "C",
+    "episode": 25,
+    "segments_str": "00:44.40-01:18.90",
+    "duration_seconds": 34.5,
+    "is_stitched": false,
+    "hook": "Alexander: \"What were you doing there?\"",
+    "cliffhanger": "Alexander: \"What did you find?\"",
+    "why": "tight, back-and-forth pacing",
+    "score": 0.545,
+    "rank_score": 0.518,
+    "rules": {
+      "hook": 0.45,
+      "cliff": 0.6,
+      "standalone": 0.76,
+      "pace": 0.85,
+      "total": 0.54
+    },
+    "flags": [
+      "refers-to-absent:Dowager Duchess,Prudence"
+    ]
+  },
+  {
+    "rank": 40,
+    "tier": "C",
+    "episode": 46,
+    "segments_str": "00:42.80-01:25.50",
+    "duration_seconds": 42.7,
+    "is_stitched": false,
+    "hook": "High Priest: \"No Crown license was sought, because no one thought to ask leave for a Duke to marry.\"",
+    "cliffhanger": "Juliana: \"God married us, Father! You are just angry no one asked you first!\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.571,
+    "rank_score": 0.518,
+    "rules": {
+      "hook": 0.45,
+      "cliff": 0.43,
+      "standalone": 0.88,
+      "pace": 0.89,
+      "total": 0.57
+    },
+    "flags": [
+      "refers-to-absent:Alexander"
+    ]
+  },
+  {
+    "rank": 41,
+    "tier": "C",
+    "episode": 33,
+    "segments_str": "01:44.20-02:24.00",
+    "duration_seconds": 39.8,
+    "is_stitched": false,
+    "hook": "Maid: \"She was praying!\"",
+    "cliffhanger": "Maid: \"I never said she was a witch!\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.551,
+    "rank_score": 0.515,
+    "rules": {
+      "hook": 0.35,
+      "cliff": 0.35,
+      "standalone": 1.0,
+      "pace": 0.96,
+      "total": 0.55
+    },
+    "flags": []
+  },
+  {
+    "rank": 42,
+    "tier": "C",
+    "episode": 5,
+    "segments_str": "00:18.50-00:56.80",
+    "duration_seconds": 38.3,
+    "is_stitched": false,
+    "hook": "Lord Ashcroft: \"You leave as no daughter of mine.\"",
+    "cliffhanger": "Juliana: \"Barbara, don't!\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.517,
+    "rank_score": 0.513,
+    "rules": {
+      "hook": 0.39,
+      "cliff": 0.33,
+      "standalone": 1.0,
+      "pace": 0.94,
+      "total": 0.52
+    },
+    "flags": []
+  },
+  {
+    "rank": 43,
+    "tier": "C",
+    "episode": 50,
+    "segments_str": "00:26.50-00:56.50",
+    "duration_seconds": 30.0,
+    "is_stitched": false,
+    "hook": "Catherine: \"That's not absolution, Thomas. That's a fortune.\"",
+    "cliffhanger": "Catherine: \"In another room no one uses?\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.566,
+    "rank_score": 0.509,
+    "rules": {
+      "hook": 0.42,
+      "cliff": 0.4,
+      "standalone": 1.0,
+      "pace": 0.87,
+      "total": 0.57
+    },
+    "flags": []
+  },
+  {
+    "rank": 44,
+    "tier": "C",
+    "episode": 9,
+    "segments_str": "00:05.50-00:45.60",
+    "duration_seconds": 40.1,
+    "is_stitched": false,
+    "hook": "Peasant Mother: \"Please! They told me there was a woman here who knows herbs. My boy is burning with fever!\"",
+    "cliffhanger": "Juliana: \"He is not beyond saving.\"",
+    "why": "easy to follow cold",
+    "score": 0.515,
+    "rank_score": 0.507,
+    "rules": {
+      "hook": 0.35,
+      "cliff": 0.35,
+      "standalone": 1.0,
+      "pace": 0.73,
+      "total": 0.52
+    },
+    "flags": []
+  },
+  {
+    "rank": 45,
+    "tier": "C",
+    "episode": 30,
+    "segments_str": "00:33.40-01:04.30",
+    "duration_seconds": 30.9,
+    "is_stitched": false,
+    "hook": "(action) The Elder Nobleman thrusts the gold knob of his walking stick directly against Rupert's chest, pinning him against the wall.",
+    "cliffhanger": "Rupert: \"The law?\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.536,
+    "rank_score": 0.504,
+    "rules": {
+      "hook": 0.37,
+      "cliff": 0.4,
+      "standalone": 1.0,
+      "pace": 0.83,
+      "total": 0.54
+    },
+    "flags": [
+      "starts-mid-sentence"
+    ]
+  },
+  {
+    "rank": 46,
+    "tier": "C",
+    "episode": 18,
+    "segments_str": "01:05.50-01:16.80  +  02:38.00-03:12.00",
+    "duration_seconds": 45.3,
+    "is_stitched": true,
+    "hook": "(action) Alexander points upward with urgency, pulling her under his arm.",
+    "cliffhanger": "Juliana: \"What are you going to do?\"",
+    "why": "opens on a strong line/action; cuts on an unresolved beat; easy to follow cold; skips a slower middle to join two beats",
+    "score": 0.517,
+    "rank_score": 0.499,
+    "rules": {
+      "hook": 0.55,
+      "cliff": 0.83,
+      "standalone": 1.0,
+      "pace": 0.61,
+      "total": 0.52
+    },
+    "flags": [
+      "stitched"
+    ]
+  },
+  {
+    "rank": 47,
+    "tier": "C",
+    "episode": 48,
+    "segments_str": "00:02.40-00:32.00",
+    "duration_seconds": 29.6,
+    "is_stitched": false,
+    "hook": "Catherine: \"Two words, and that healer's crown rolls right back into the gutter where it belongs.\"",
+    "cliffhanger": "Catherine: \"Lock it.\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.55,
+    "rank_score": 0.497,
+    "rules": {
+      "hook": 0.42,
+      "cliff": 0.43,
+      "standalone": 0.88,
+      "pace": 0.79,
+      "total": 0.55
+    },
+    "flags": [
+      "refers-to-absent:Alexander"
+    ]
+  },
+  {
+    "rank": 48,
+    "tier": "C",
+    "episode": 13,
+    "segments_str": "00:24.20-00:52.60",
+    "duration_seconds": 28.4,
+    "is_stitched": false,
+    "hook": "Alexander: \"I would rather face the gallows than watch you hurt yourself for me.\"",
+    "cliffhanger": "Alexander: \"Please...\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.508,
+    "rank_score": 0.496,
+    "rules": {
+      "hook": 0.3,
+      "cliff": 0.31,
+      "standalone": 1.0,
+      "pace": 0.93,
+      "total": 0.51
+    },
+    "flags": [
+      "ends-on-sad-beat"
+    ]
+  },
+  {
+    "rank": 49,
+    "tier": "C",
+    "episode": 32,
+    "segments_str": "01:11.30-01:47.20",
+    "duration_seconds": 35.9,
+    "is_stitched": false,
+    "hook": "Catherine: \"You were rejected!\"",
+    "cliffhanger": "Juliana: \"And a woman who never embarrasses the people standing behind her.\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.529,
+    "rank_score": 0.496,
+    "rules": {
+      "hook": 0.35,
+      "cliff": 0.35,
+      "standalone": 1.0,
+      "pace": 0.82,
+      "total": 0.53
+    },
+    "flags": []
+  },
+  {
+    "rank": 50,
+    "tier": "C",
+    "episode": 25,
+    "segments_str": "01:45.20-02:08.00",
+    "duration_seconds": 22.8,
+    "is_stitched": false,
+    "hook": "Alexander: \"You treated her?\"",
+    "cliffhanger": "Juliana: \"Alexander... why are you so angry?\"",
+    "why": "easy to follow cold",
+    "score": 0.521,
+    "rank_score": 0.495,
+    "rules": {
+      "hook": 0.45,
+      "cliff": 0.5,
+      "standalone": 0.88,
+      "pace": 0.75,
+      "total": 0.52
+    },
+    "flags": [
+      "refers-to-absent:Prudence"
+    ]
+  },
+  {
+    "rank": 51,
+    "tier": "C",
+    "episode": 23,
+    "segments_str": "01:13.80-02:11.20",
+    "duration_seconds": 57.4,
+    "is_stitched": false,
+    "hook": "Prudence: \"What are you saying?\"",
+    "cliffhanger": "(sound) Loud, metallic clack of the door latch turning, followed by the slow creak of wood hinges.",
+    "why": "easy to follow cold",
+    "score": 0.518,
+    "rank_score": 0.494,
+    "rules": {
+      "hook": 0.45,
+      "cliff": 0.55,
+      "standalone": 1.0,
+      "pace": 0.68,
+      "total": 0.52
+    },
+    "flags": [
+      "dead-air-8s"
+    ]
+  },
+  {
+    "rank": 52,
+    "tier": "C",
+    "episode": 49,
+    "segments_str": "01:43.80-02:24.75",
+    "duration_seconds": 41.0,
+    "is_stitched": false,
+    "hook": "Father Thomas: \"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\"",
+    "cliffhanger": "Catherine: \"We always have.\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.547,
+    "rank_score": 0.493,
+    "rules": {
+      "hook": 0.42,
+      "cliff": 0.4,
+      "standalone": 1.0,
+      "pace": 0.75,
+      "total": 0.55
+    },
+    "flags": []
+  },
+  {
+    "rank": 53,
+    "tier": "C",
+    "episode": 36,
+    "segments_str": "00:52.00-01:25.50",
+    "duration_seconds": 33.5,
+    "is_stitched": false,
+    "hook": "Alexander: \"While the world mourned a dead heir.\"",
+    "cliffhanger": "Alexander: \"What?\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.529,
+    "rank_score": 0.492,
+    "rules": {
+      "hook": 0.39,
+      "cliff": 0.4,
+      "standalone": 0.88,
+      "pace": 0.79,
+      "total": 0.53
+    },
+    "flags": [
+      "refers-to-absent:Juliana"
+    ]
+  },
+  {
+    "rank": 54,
+    "tier": "C",
+    "episode": 41,
+    "segments_str": "00:58.00-01:36.09",
+    "duration_seconds": 38.1,
+    "is_stitched": false,
+    "hook": "Juliana: \"You needed an entire chapel to feel powerful over one chained woman?\"",
+    "cliffhanger": "(action) Silhouetted armed figures emerge through the smoke and rubble of the breached doorway. Juliana slowly turns her head, glancing back toward the light.",
+    "why": "easy to follow cold",
+    "score": 0.527,
+    "rank_score": 0.484,
+    "rules": {
+      "hook": 0.45,
+      "cliff": 0.5,
+      "standalone": 1.0,
+      "pace": 0.43,
+      "total": 0.53
+    },
+    "flags": [
+      "script-marks-cliffhanger",
+      "dead-air-17s"
+    ]
+  },
+  {
+    "rank": 55,
+    "tier": "C",
+    "episode": 26,
+    "segments_str": "00:56.00-01:07.00  +  01:36.00-02:00.88",
+    "duration_seconds": 35.9,
+    "is_stitched": true,
+    "hook": "Dowager Duchess: \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\"",
+    "cliffhanger": "Dowager Duchess: \"Where... where... Where did you get this ring? Speak to me!\"",
+    "why": "opens on a strong line/action; cuts on an unresolved beat; skips a slower middle to join two beats",
+    "score": 0.507,
+    "rank_score": 0.481,
+    "rules": {
+      "hook": 0.57,
+      "cliff": 0.85,
+      "standalone": 0.76,
+      "pace": 0.68,
+      "total": 0.51
+    },
+    "flags": [
+      "stitched",
+      "refers-to-absent:Catherine,Rupert"
+    ]
+  },
+  {
+    "rank": 56,
+    "tier": "C",
+    "episode": 22,
+    "segments_str": "00:49.20-01:17.50",
+    "duration_seconds": 28.3,
+    "is_stitched": false,
+    "hook": "Housekeeper: \"She looks soft.\"",
+    "cliffhanger": "Housekeeper: \"Then prove it. The manor has no use for useless girls.\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.499,
+    "rank_score": 0.477,
+    "rules": {
+      "hook": 0.3,
+      "cliff": 0.3,
+      "standalone": 1.0,
+      "pace": 0.84,
+      "total": 0.5
+    },
+    "flags": [
+      "low-confidence"
+    ]
+  },
+  {
+    "rank": 57,
+    "tier": "C",
+    "episode": 42,
+    "segments_str": "00:30.40-01:17.50",
+    "duration_seconds": 47.1,
+    "is_stitched": false,
+    "hook": "Blond Nobleman: \"You cannot be him. Alexander died!\"",
+    "cliffhanger": "Alexander: \"And now, Rupert... we settle what you stole.\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.521,
+    "rank_score": 0.477,
+    "rules": {
+      "hook": 0.5,
+      "cliff": 0.4,
+      "standalone": 0.88,
+      "pace": 0.78,
+      "total": 0.52
+    },
+    "flags": [
+      "refers-to-absent:Rupert"
+    ]
+  },
+  {
+    "rank": 58,
+    "tier": "C",
+    "episode": 33,
+    "segments_str": "00:44.20-01:15.00",
+    "duration_seconds": 30.8,
+    "is_stitched": false,
+    "hook": "Lord: \"Did she prepare things no physician had prescribed?\"",
+    "cliffhanger": "Lord: \"Then help him.\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.509,
+    "rank_score": 0.476,
+    "rules": {
+      "hook": 0.3,
+      "cliff": 0.33,
+      "standalone": 1.0,
+      "pace": 0.98,
+      "total": 0.51
+    },
+    "flags": []
+  },
+  {
+    "rank": 59,
+    "tier": "C",
+    "episode": 35,
+    "segments_str": "00:59.50-01:33.20",
+    "duration_seconds": 33.7,
+    "is_stitched": false,
+    "hook": "Alexander'S Mother: \"They told me you died. They told me your entire regiment was destroyed.\"",
+    "cliffhanger": "Alexander: \"Yes.\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.506,
+    "rank_score": 0.471,
+    "rules": {
+      "hook": 0.3,
+      "cliff": 0.33,
+      "standalone": 1.0,
+      "pace": 0.96,
+      "total": 0.51
+    },
+    "flags": []
+  },
+  {
+    "rank": 60,
+    "tier": "C",
+    "episode": 46,
+    "segments_str": "01:40.50-02:23.80",
+    "duration_seconds": 43.3,
+    "is_stitched": false,
+    "hook": "Alexander: \"A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal.\"",
+    "cliffhanger": "Catherine: \"Ten days is plenty of time.\"",
+    "why": "easy to follow cold; tight, back-and-forth pacing",
+    "score": 0.517,
+    "rank_score": 0.47,
+    "rules": {
+      "hook": 0.3,
+      "cliff": 0.3,
+      "standalone": 1.0,
+      "pace": 0.96,
+      "total": 0.52
+    },
+    "flags": []
+  },
+  {
+    "rank": 61,
+    "tier": "C",
+    "episode": 47,
+    "segments_str": "00:23.20-00:59.80",
+    "duration_seconds": 36.6,
+    "is_stitched": false,
+    "hook": "Juliana: \"What if Father Thomas sways the High Council?\"",
+    "cliffhanger": "Lady Ashbourne: \"You dare show your face in Ashbourne courtyard?\"",
+    "why": "easy to follow cold",
+    "score": 0.515,
+    "rank_score": 0.467,
+    "rules": {
+      "hook": 0.45,
+      "cliff": 0.4,
+      "standalone": 0.88,
+      "pace": 0.7,
+      "total": 0.52
+    },
+    "flags": [
+      "refers-to-absent:Father Thomas"
+    ]
+  },
+  {
+    "rank": 62,
+    "tier": "C",
+    "episode": 6,
+    "segments_str": "00:29.20-01:13.20",
+    "duration_seconds": 44.0,
+    "is_stitched": false,
+    "hook": "Juliana: \"At least no one there will be waiting to humiliate me.\"",
+    "cliffhanger": "Juliana: \"If I stop now, I will think about everything I lost.\"",
+    "why": "easy to follow cold",
+    "score": 0.46,
+    "rank_score": 0.455,
+    "rules": {
+      "hook": 0.3,
+      "cliff": 0.33,
+      "standalone": 1.0,
+      "pace": 0.66,
+      "total": 0.46
+    },
+    "flags": [
+      "dead-air-8s",
+      "low-confidence"
+    ]
+  },
+  {
+    "rank": 63,
+    "tier": "C",
+    "episode": 8,
+    "segments_str": "00:15.00-01:02.80",
+    "duration_seconds": 47.8,
+    "is_stitched": false,
+    "hook": "Juliana: \"How do you know that?\"",
+    "cliffhanger": "Juliana: \"And the scars... were they from the war?\"",
+    "why": "easy to follow cold",
+    "score": 0.458,
+    "rank_score": 0.451,
+    "rules": {
+      "hook": 0.3,
+      "cliff": 0.4,
+      "standalone": 1.0,
+      "pace": 0.74,
+      "total": 0.46
+    },
+    "flags": [
+      "low-confidence"
+    ]
+  },
+  {
+    "rank": 64,
+    "tier": "C",
+    "episode": 37,
+    "segments_str": "01:53.50-02:36.47",
+    "duration_seconds": 43.0,
+    "is_stitched": false,
+    "hook": "Juliana: \"They cannot take who I am!\"",
+    "cliffhanger": "(sound) A deep, ominous cello rumble builds alongside the crackle of the fireplace into an unresolved, tension-filled cliffhanger sting before fading out.",
+    "why": "cuts on an unresolved beat; easy to follow cold",
+    "score": 0.477,
+    "rank_score": 0.442,
+    "rules": {
+      "hook": 0.35,
+      "cliff": 0.7,
+      "standalone": 1.0,
+      "pace": 0.62,
+      "total": 0.48
+    },
+    "flags": [
+      "script-marks-cliffhanger",
+      "dead-air-10s",
+      "low-confidence"
+    ]
+  },
+  {
+    "rank": 65,
+    "tier": "C",
+    "episode": 10,
+    "segments_str": "01:03.90-01:34.00",
+    "duration_seconds": 30.1,
+    "is_stitched": false,
+    "hook": "Juliana: \"Why do you look at me like that?\"",
+    "cliffhanger": "Alexander: \"Your touch is the only medicine that has ever eased my pain.\"",
+    "why": "easy to follow cold",
+    "score": 0.433,
+    "rank_score": 0.425,
+    "rules": {
+      "hook": 0.3,
+      "cliff": 0.3,
+      "standalone": 1.0,
+      "pace": 0.43,
+      "total": 0.43
+    },
+    "flags": [
+      "dead-air-8s",
+      "low-confidence"
+    ]
+  },
+  {
+    "rank": 66,
+    "tier": "C",
+    "episode": 17,
+    "segments_str": "00:18.20-00:59.80",
+    "duration_seconds": 41.6,
+    "is_stitched": false,
+    "hook": "Juliana: \"For standing between me and those men.\"",
+    "cliffhanger": "Alexander: \"Of them?\"",
+    "why": "easy to follow cold",
+    "score": 0.432,
+    "rank_score": 0.418,
+    "rules": {
+      "hook": 0.3,
+      "cliff": 0.4,
+      "standalone": 1.0,
+      "pace": 0.56,
+      "total": 0.43
+    },
+    "flags": [
+      "dead-air-7s",
+      "low-confidence"
+    ]
+  },
+  {
+    "rank": 67,
+    "tier": "C",
+    "episode": 40,
+    "segments_str": "00:44.10-01:06.80",
+    "duration_seconds": 22.7,
+    "is_stitched": false,
+    "hook": "Lord Harrington: \"Of the wedding?\"",
+    "cliffhanger": "Elder Nobleman: \"All entrances are covered?\"",
+    "why": "easy to follow cold",
+    "score": 0.45,
+    "rank_score": 0.414,
+    "rules": {
+      "hook": 0.42,
+      "cliff": 0.4,
+      "standalone": 1.0,
+      "pace": 0.33,
+      "total": 0.45
+    },
+    "flags": [
+      "dead-air-12s",
+      "low-confidence"
+    ]
+  },
+  {
+    "rank": 68,
+    "tier": "C",
+    "episode": 39,
+    "segments_str": "01:05.60-01:38.00",
+    "duration_seconds": 32.4,
+    "is_stitched": false,
+    "hook": "Alexander: \"Today, he comes home.\"",
+    "cliffhanger": "Alexander: \"And I am bringing my wife home.\"",
+    "why": "easy to follow cold",
+    "score": 0.443,
+    "rank_score": 0.409,
+    "rules": {
+      "hook": 0.3,
+      "cliff": 0.3,
+      "standalone": 1.0,
+      "pace": 0.49,
+      "total": 0.44
+    },
+    "flags": [
+      "dead-air-9s",
+      "low-confidence"
+    ]
+  },
+  {
+    "rank": 69,
+    "tier": "C",
+    "episode": 19,
+    "segments_str": "01:16.50-01:46.20",
+    "duration_seconds": 29.7,
+    "is_stitched": false,
+    "hook": "Alexander: \"My mother is a prisoner in her own house.\"",
+    "cliffhanger": "Alexander: \"Tomorrow, we begin again.\"",
+    "why": "easy to follow cold",
+    "score": 0.406,
+    "rank_score": 0.391,
+    "rules": {
+      "hook": 0.3,
+      "cliff": 0.25,
+      "standalone": 1.0,
+      "pace": 0.57,
+      "total": 0.41
+    },
+    "flags": [
+      "dead-air-8s",
+      "low-confidence"
+    ]
+  }
+]
